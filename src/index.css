@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes gradient-x {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 10s ease infinite;
+}
+
+.glow-icon {
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.6));
+}
+
+.custom-border::before {
+  content: "";
+  position: absolute;
+  inset: -1px; /* Makes sure it stays within the box */
+  border-radius: inherit;
+  border: 1px solid transparent;
+  background: linear-gradient(to right, pink, blue);
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+}
+
+.custom-border:hover::before {
+  opacity: 1; /* Show thin border on hover */
+}
+

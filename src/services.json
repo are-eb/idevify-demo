@@ -1,0 +1,303 @@
+[
+  {
+    "id": "web-development",
+    "title": "Web Development",
+    "description": "We create modern and responsive websites tailored to your needs.",
+    "image": "/images/web_dev.jpg",
+    "technologies": [
+      { "name": "React", "icon": "FaReact" },
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "Node.js", "icon": "FaNodeJs" },
+      { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+      { "name": "MongoDB", "icon": "SiMongodb" }
+    ],
+    "features": [
+      { "title": "Customized Solutions", "description": "We believe in delivering tailor-made solutions that align with your brands identity and objectives. Our team of expert developers and designers collaborate closely with you to create a website that reflects your unique voice and engages your target audience. Trust Idevify Solutions to transform your vision into a powerful digital presence that drives growth and success.", "image": "/services/web-1.png" },
+      { "title": "Responsive Design", "description": "In an era where mobile traffic surpasses desktop, ensuring your website is fully responsive is imperative. We design websites that offer seamless user experiences across all devices, from smartphones to tablets and desktops, ensuring your audience enjoys consistent and intuitive navigation.", "image": "/services/web-2.png" },
+      { "title": "Cutting-Edge Technologies", "description": "Leveraging the latest technologies and frameworks, we build robust and scalable websites that are ready for future growth. Our proficiency in HTML5, CSS3, JavaScript, and various content management systems (CMS) like WordPress, Joomla, and Drupal ensures that your website is built on a solid foundation.", "image": "/services/web-3.png" },
+      { "title": "SEO Optimization", "description": "A beautiful website is of little use if it cannot be found by your potential customers. Our web development process includes comprehensive SEO optimization to enhance your sites visibility on search engines. We implement best practices in site structure, keyword integration, and performance optimization to boost your online presence.", "image": "/services/web-4.png" },
+      { "title": "E-commerce Solutions", "description": "For businesses looking to sell online, we offer comprehensive e-commerce solutions that turn visitors into customers. Our e-commerce websites are secure, user-friendly, and equipped with features such as product catalogs, shopping carts, payment gateways, and order management systems to streamline your operations.", "image": "/services/web-5.png" },
+      { "title": "Ongoing Support and Maintenance", "description": "Our commitment to your success doesnt end with the launch of your website. We offer ongoing support and maintenance services to ensure your website remains up-to-date, secure, and functioning smoothly. From regular updates to troubleshooting and performance optimization, we are here to assist you every step of the way.", "image": "/services/web-6.png" }
+    ]
+  },
+  {
+    "id": "android-development",
+    "title": "Android Development",
+    "description": "At Idevify Solutions, we transform your digital presence with cutting-edge web development services tailored to your unique business needs. Our team of expert developers and designers work collaboratively to create dynamic, responsive, and user-friendly websites that not only captivate your audience but also drive business growth.",
+    "image": "/images/android_dev.jpg",
+    "technologies": [
+      { "name": "Kotlin", "icon": "SiKotlin" },
+      { "name": "Java", "icon": "FaJava" },
+      { "name": "Flutter", "icon": "SiFlutter" },
+      { "name": "Firebase", "icon": "SiFirebase" },
+      { "name": "SQLite", "icon": "SiSqlite" }
+    ],
+    "features": [
+      { "title": "Expert Team of Developers", "description": "Our skilled developers possess deep expertise in the Android ecosystem, ensuring that your app is built using the latest technologies and best practices. We stay ahead of the curve by continuously updating our skills to leverage new tools and trends in Android development. From concept to deployment, we ensure every detail is perfected, providing you with a seamless and engaging app experience.", "image": "/services/android-1.png" },
+      { "title": "Custom Solutions", "description": "We understand that each business is unique. Our approach is highly personalized, starting with a thorough understanding of your business goals and user needs. We then craft bespoke Android applications that align perfectly with your vision and objectives. Whether you need a complex enterprise app or a simple utility tool, we are committed to delivering a product that exceeds your expectations.", "image": "/services/android-2.png" },
+      { "title": "Seamless User Experience", "description": "User experience is at the core of our development process. We focus on creating intuitive and engaging interfaces that provide seamless navigation and delightful interactions. Our goal is to enhance user satisfaction, driving your business growth. With Idevify Solutions, you can be confident that your Android app will provide an exceptional, frictionless experience that keeps users coming back.", "image": "/services/android-3.png" },
+      { "title": "Robust and Scalable Architecture", "description": "Our Android applications are built with scalability in mind. Whether you’re a startup looking to expand or an established enterprise seeking to enhance your mobile presence, our solutions are designed to grow with your business.Utilizing the latest technologies and best practices, we ensure your app can handle increasing loads and adapt to future advancements seamlessly.", "image": "/services/android-4.png" },
+      { "title": "End-to-End Service", "description": "From initial consultation and conceptualization to design, development, testing, and deployment, we offer comprehensive end-to-end Android development services. We also provide post-launch support and maintenance to ensure your app remains up-to-date and performs optimally.", "image": "/services/android-5.png" },
+      { "title": "Security Features", "description": "Our commitment to your success doesnt end with the launch of your website. We offer ongoing support and maintenance services to ensure your website remains up-to-date, secure, and functioning smoothly. From regular updates to troubleshooting and performance optimization, we are here to assist you every step of the way.", "image": "/services/android-6.png" }
+    ]
+  },
+  {
+    "id": "digital-marketing",
+    "title": "Digital Marketing",
+    "description": "At Idevify Solutions, we transform your digital presence with cutting-edge web development services tailored to your unique business needs. Our team of expert developers and designers work collaboratively to create dynamic, responsive, and user-friendly websites that not only captivate your audience but also drive business growth.",
+    "image": "/images/digital-marketing.jpg",
+    "technologies": [
+      { "name": "Google Ads", "icon": "SiGoogleads" },
+      { "name": "Facebook Ads", "icon": "SiFacebook" },
+      { "name": "SEO", "icon": "SiGooglebigquery" },
+      { "name": "Content Marketing", "icon": "SiBlogger" },
+      { "name": "Email Marketing", "icon": "SiMailchimp" }
+    ],
+    "features": [
+      { "title": "SEO Services", "description": "At Idevify, we specialize in Search Engine Optimization (SEO) to ensure your business reaches its full potential in the digital landscape. Our comprehensive SEO services are designed to enhance your website's visibility, drive organic traffic, and improve search engine rankings. By utilizing advanced techniques in keyword research, on-page optimization, and quality link building, we help your brand stand out in a competitive market.", "image": "/services/marketing-1.png" },
+      { "title": "Social Media Marketing", "description": "Idevify Solutions offers comprehensive social media marketing services that help you build a strong online presence and engage with your audience effectively. We create customized social media strategies for platforms like Facebook, Instagram, LinkedIn, Twitter, and Pinterest. Our team manages your social media profiles, posts regular updates, and interacts with your followers to build a vibrant community.", "image": "/services/marketing-2.png" },
+      { "title": "Conversion Rate Optimization (CRO)", "description": "Conversion rate optimization at Idevify Solutions focuses on turning your website visitors into loyal customers. We analyze user behavior, perform A/B testing, and implement changes to enhance user experience and increase conversions. Our team optimizes landing pages, calls-to-action, and forms to reduce friction and encourage desired actions. By continuously monitoring performance and making data-driven adjustments.", "image": "/services/marketing-4.png" },
+      { "title": "Email Campaigns", "description": "Our email marketing services at Idevify Solutions are designed to nurture leads and retain customers through personalized, automated campaigns. We segment your subscriber list to ensure relevant messaging and optimize your emails for higher open and click-through rates. Our team crafts engaging content, designs visually appealing templates, and conducts A/B testing to refine your campaigns.", "image": "/services/marketing-3.png" },
+      { "title": "Online Reputation Management", "description": "Idevify Solutions offers online reputation management services to protect and enhance your brands image across digital platforms. We monitor social media, review sites, and forums to track what is being said about your brand. Our team conducts sentiment analysis to understand public perception and devises strategies to address negative feedback and encourage positive reviews.", "image": "/services/marketing-5.png" },
+      { "title": "Advertisement Campaign", "description": "Idevify offers expert Ad Campaign services to help your business achieve maximum impact and ROI in the digital world. Our team crafts targeted, data-driven ad campaigns that resonate with your audience across various platforms, including Google Ads, social media, and display networks. By focusing on precise targeting, compelling ad creatives, and continuous optimization, we ensure your brand captures attention and drives conversions.", "image": "/services/marketing-6.png" }
+    ]
+  },
+  {
+    "id": "custom-software",
+    "title": "Custom Software Development",
+    "description": "We provide end-to-end custom software development services tailored to your specific business requirements. From conceptualization to deployment, our solutions are designed to maximize efficiency and scalability, empowering your business for the future.",
+    "image": "/images/custom-software.jpg",
+    "technologies": [
+      { "name": "Java", "icon": "FaJava" },
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "React", "icon": "FaReact" },
+     { "name": "C#", "icon": "/images/CSharp.png" },
+      { "name": "MySQL", "icon": "SiMysql" }, 
+      { "name": "AWS", "icon": "FaAws" }
+    ],
+    "features": [
+      { "title": "Enterprise Software", "description": "We develop robust enterprise software to streamline your business operations, enhance collaboration, and drive productivity. Our scalable solutions grow with your organization.", "image": "/services/csd-1.png" },
+      { "title": "Mobile Applications", "description": "Our mobile applications are designed to provide a seamless experience on Android and iOS platforms, enhancing accessibility and engagement for your audience.", "image": "/services/csd-2.png" },
+      { "title": "Custom Web Applications", "description": "From e-commerce platforms to customer portals, our web applications are tailored to meet specific objectives while ensuring a superior user experience.", "image": "/services/csd-3.png" },
+      { "title": "Cloud Computing", "description": "Secure cloud-based solutions.", "image": "/services/csd-4.png" },
+      { "title": "Database Management", "description": "Efficient database solutions for businesses.", "image": "/services/csd-5.png" },
+      { "title": "Security & Compliance", "description": "Implement secure software practices.", "image": "/services/csd-6.png" }
+    ]
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "description": "We craft intuitive, visually appealing, and user-centric interfaces that enhance digital experiences. Our design approach focuses on usability, accessibility, and aesthetics to ensure seamless interaction across all devices. By combining creativity with data-driven insights, we create designs that not only look great but also provide an exceptional user journey.",
+    "image": "/images/ui-ux.jpg",
+    "technologies": [
+      { "name": "Figma", "icon": "SiFigma" },
+      { "name": "Adobe XD", "icon": "SiAdobe" },
+      { "name": "Sketch", "icon": "SiSketch" },
+      { "name": "Framer", "icon": "SiFramer" },
+      { "name": "InVision", "icon": "SiInvision" }
+    ],
+    "features": [
+      {
+        "title": "Wireframing",
+        "description": "Plan and structure user journeys with wireframing. We create detailed blueprints that outline the layout, functionality, and flow of an application before moving into the final design phase.",
+        "image": "/services/uiux-1.png"
+      },
+      {
+        "title": "Prototyping",
+        "description": "Develop interactive prototypes to visualize user experiences before development. Prototyping allows for usability testing, feedback collection, and early-stage refinement to ensure a smooth final product.",
+        "image": "/services/uiux-2.png"
+      },
+      {
+        "title": "User Research",
+        "description": "Conduct in-depth user research to understand audience behavior, pain points, and preferences. By analyzing data and user feedback, we design solutions that align perfectly with user needs.",
+        "image": "/services/uiux-3.png"
+      },
+      {
+        "title": "Visual Design",
+        "description": "Create stunning, engaging, and brand-aligned visual designs. Our approach focuses on typography, color schemes, and UI elements to ensure an aesthetically pleasing and functional interface.",
+        "image": "/services/uiux-4.png"
+      },
+      {
+        "title": "Usability Testing",
+        "description": "Test and refine the user experience with real users. Our usability testing process identifies pain points and optimizes interactions, ensuring a smooth and efficient interface across all platforms.",
+        "image": "/services/uiux-5.png"
+      },
+      {
+        "title": "Design Systems",
+        "description": "Build scalable and consistent design systems for seamless brand identity. A well-structured design system ensures efficiency, maintains uniformity, and enhances collaboration across design and development teams.",
+        "image": "/services/uiux-6.png"
+      }
+    ]
+  },  
+  {
+    "id": "graphics-design",
+    "title": "Graphics Design",
+    "description": "Creative and professional graphic design solutions.",
+    "image": "/images/graphics-design.jpg",
+    "technologies": [
+      { "name": "Adobe Photoshop", "icon": "SiAdobephotoshop" },
+      { "name": "Adobe Illustrator", "icon": "SiAdobeillustrator" },
+      { "name": "Figma", "icon": "SiFigma" },
+      { "name": "CorelDRAW", "icon": "SiCoreldraw" },
+      { "name": "Canva", "icon": "SiCanva" }
+    ],
+    "features": [
+      { "title": "Marketing Collateral Design", 
+      "description": "Effective marketing collateral is essential for promoting your products and services. We design a wide range of marketing materials, including brochures, flyers, posters, business cards, and banners. Our designs are tailored to your brand and target audience, ensuring that your marketing efforts are impactful and persuasive. High-quality marketing collateral can significantly enhance your outreach and engagement efforts.", 
+      "image": "/services/gd-1.png" },
+
+      { "title": "Brand Identity",
+       "description": "A strong brand identity is the cornerstone of any successful business. Our branding and identity design services include the creation of logos, color schemes, typography, and brand guidelines. We develop cohesive and memorable brand identities that reflect your company's values and vision. By crafting a distinctive brand identity, we help you stand out in a crowded market.", 
+       "image": "/services/gd-2.png" },
+
+      { "title": "Social Media Graphics", 
+      "description": "In the digital age, compelling visual content is crucial for online engagement. We create eye-catching digital graphics for websites, social media platforms, and digital advertising. Our services include the design of social media posts, infographics, web banners, email templates, and more. We focus on creating visually appealing and shareable content that drives traffic and interaction across digital channels.", 
+      "image": "/services/gd-3.png" },
+
+      { "title": "Print Design", 
+      "description": "Print design remains a powerful tool for tangible brand communication. Our print design services encompass everything from business stationery and packaging to large-format prints and promotional materials. We ensure that every printed piece aligns with your brand and communicates your message effectively. Quality print design can leave a lasting impression and enhance your brand's credibility.", "image": "/services/gd-4.png" },
+
+      { "title": "Presentation Design", 
+      "description": "Presentations are a critical aspect of business communication. We design professional and visually appealing presentations that effectively convey your message and engage your audience. Our presentation design services include creating slide decks for conferences, pitches, training sessions, and internal meetings. A well-designed presentation can significantly impact your ability to persuade and inform.", 
+      "image": "/services/gd-5.png" },
+
+      { "title": "Illustrations", "description": "Custom illustrations and graphics can add a unique touch to your brand. Our team of talented illustrators creates bespoke artwork that captures your brand's personality and engages your audience. Whether you need illustrations for a book, custom icons for a website, or unique graphics for a campaign, we deliver creative solutions that enhance your visual storytelling.", "image": "/services/gd-6.png" }
+    ]
+  },
+  {
+    "id": "student-training-development",
+    "title": "Student Training and Development",
+    "description": "Empower students with cutting-edge skills and hands-on training through our comprehensive development programs. We focus on real-world applications, industry-relevant technologies, and career-building strategies to ensure students are well-prepared for the evolving job market. Our goal is to bridge the gap between academic learning and professional success.",
+    "image": "/images/student-training.jpg",
+    "technologies": [
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "Java", "icon": "FaJava" },
+      { "name": "Web Development", "icon": "SiJavascript" },
+      { "name": "Data Science", "icon": "SiDatabricks" },
+      { "name": "Soft Skills", "icon": "FaBook" }
+    ],
+    "features": [
+      {
+        "title": "Coding Bootcamps",
+        "description": "Intensive coding sessions designed for both beginners and experienced learners. These bootcamps cover programming fundamentals, project-based learning, and hands-on coding challenges to build strong technical expertise.",
+        "image": "/services/student-1.png"
+      },
+      {
+        "title": "Career Guidance",
+        "description": "Comprehensive career counseling to help students identify their strengths, explore career opportunities, and plan their professional journey. We provide mentorship, resume-building tips, and interview preparation to boost employability.",
+        "image": "/services/student-2.png"
+      },
+      {
+        "title": "Internship Programs",
+        "description": "Gain real-world experience through industry-aligned internships. These programs allow students to work on live projects, interact with professionals, and develop practical skills that enhance job readiness and career growth.",
+        "image": "/services/student-3.png"
+      },
+      {
+        "title": "Soft Skills Training",
+        "description": "Develop essential soft skills such as communication, teamwork, leadership, and problem-solving. Our training modules focus on interpersonal skills, public speaking, and confidence-building to prepare students for workplace challenges.",
+        "image": "/services/student-4.png"
+      },
+      {
+        "title": "Certification Courses",
+        "description": "Enroll in globally recognized certification programs that validate technical proficiency and industry knowledge. These certifications enhance credibility and improve job prospects in various domains like programming, data science, and cybersecurity.",
+        "image": "/services/student-5.png"
+      },
+      {
+        "title": "Workshops & Seminars",
+        "description": "Interactive workshops and expert-led seminars on the latest technologies and industry trends. These sessions provide hands-on experience, networking opportunities, and insights from industry professionals.",
+        "image": "/services/student-6.png"
+      }
+    ]
+  },  
+  {
+    "id": "2d-3d-animation",
+    "title": "2D-3D Animation",
+    "description": "Bring your ideas to life with high-quality 2D and 3D animation services. Whether it's for films, games, marketing, or product visualization, we create visually compelling animations that captivate audiences. Our expertise spans from character animation to realistic simulations, ensuring smooth, engaging, and professional output for every industry.",
+    "image": "/images/animation.jpg",
+    "technologies": [
+      { "name": "Blender", "icon": "SiBlender" },
+      { "name": "Maya", "icon": "SiAutodesk" },
+      { "name": "Adobe After Effects", "icon": "SiAdobeaftereffects" },
+      { "name": "Cinema 4D", "icon": "SiCinema4D" },
+      { "name": "Toon Boom", "icon": "SiToonboom" }
+    ],
+    "features": [
+      {
+        "title": "2D Animation",
+        "description": "Craft visually stunning 2D animations for advertisements, explainer videos, and entertainment. We use advanced techniques to create smooth motion, vibrant visuals, and engaging storytelling that captivate audiences across different platforms.",
+        "image": "/services/2d3d-1.png"
+      },
+      {
+        "title": "3D Modeling",
+        "description": "Develop high-quality 3D models with realistic textures and precise detailing. Our expertise covers everything from product visualizations to architectural models and character designs, delivering visually striking and immersive experiences.",
+        "image": "/services/2d3d-2.png"
+      },
+      {
+        "title": "Motion Graphics",
+        "description": "Enhance videos with eye-catching motion graphics that add depth and engagement. We specialize in creating animated typography, logo animations, and infographic storytelling to make content more dynamic and visually appealing.",
+        "image": "/services/2d3d-3.png"
+      },
+      {
+        "title": "Character Animation",
+        "description": "Breathe life into characters with fluid, expressive animations. Our character animation services include rigging, keyframing, and motion capture, ensuring realistic movements and emotional expressions that enhance storytelling.",
+        "image": "/services/2d3d-4.png"
+      },
+      {
+        "title": "Visual Effects (VFX)",
+        "description": "Integrate advanced visual effects into your videos, films, or games. From explosions and particle effects to digital compositing and CGI enhancements, we bring high-end VFX techniques to create stunning cinematic experiences.",
+        "image": "/services/2d3d-5.png"
+      },
+      {
+        "title": "Game Animation",
+        "description": "Design immersive animations specifically for gaming environments. We create character movements, object interactions, and physics-based animations that enhance gameplay realism and user engagement.",
+        "image": "/services/2d3d-6.png"
+      }
+    ]
+  },  
+  {
+    "id": "seo",
+    "title": "Search Engine Optimization (SEO)",
+    "description": "Increase your website's visibility and attract more organic traffic with our expert SEO strategies. We optimize every aspect of your site, from content and keywords to technical performance, ensuring higher rankings on search engines like Google and Bing.",
+    "image": "/images/seo.jpg",
+    "technologies": [
+      { "name": "Google Analytics", "icon": "SiGoogleanalytics" },
+      { "name": "SEMrush", "icon": "SiSemrush" },
+      { "name": "Ahrefs", "icon": "FaAmilia" },
+      { "name": "Yoast SEO", "icon": "SiYoast" },
+      { "name": "Google Search Console", "icon": "SiGooglesearchconsole" }
+    ],
+    "features": [
+      {
+        "title": "On-Page SEO",
+        "description": "Optimize your website's content, meta tags, and structure to improve search engine rankings and enhance user experience.",
+        "image": "/services/seo-1.png"
+      },
+      {
+        "title": "Off-Page SEO",
+        "description": "Strengthen your site's authority through backlinking, outreach strategies, and social media engagement to boost credibility.",
+        "image": "/services/seo-2.png"
+      },
+      {
+        "title": "Keyword Research",
+        "description": "Identify high-impact keywords and search trends to target the right audience and increase website traffic effectively.",
+        "image": "/services/seo-3.png"
+      },
+      {
+        "title": "Technical SEO",
+        "description": "Enhance your website's backend structure, page speed, mobile responsiveness, and indexability for optimal performance.",
+        "image": "/services/seo-4.png"
+      },
+      {
+        "title": "Local SEO",
+        "description": "Improve your visibility in local search results by optimizing your Google My Business profile and location-based strategies.",
+        "image": "/services/seo-5.png"
+      },
+      {
+        "title": "SEO Audits",
+        "description": "Conduct a comprehensive SEO audit to analyze your website's strengths and weaknesses, providing actionable insights for improvement.",
+        "image": "/services/seo-6.png"
+      }
+    ]
+  }
+  
+]
